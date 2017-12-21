@@ -1,0 +1,6 @@
+!images/icon.png
+images/**
+.vscode/**
+.gitignore
+code-syntax.js
+package-lock.json
